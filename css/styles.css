@@ -1,0 +1,59 @@
+#physclub html, #physclub body {
+  height: 100%;
+  margin: 0;
+}
+#physclub body {
+  padding-top: 50px;
+}
+#physclub #footer {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #f5f5f5;
+  border-top: 1px #DDD solid;
+  padding: 5px;
+  display: none;
+}
+#physclub #topbar {
+  position: absolute;
+}
+#physclub #footer ul {
+  margin-left: 0;
+}
+#physclub #footer  ul li{
+  list-style-type: none;
+  display: inline;
+  margin: 0 5px;
+}
+#physclub .imageheader {
+  display: block;
+  height: 150px;
+  -moz-box-shadow: 2px 2px 2px #ccc;
+  -webkit-box-shadow: 2px 2px 2px #ccc;
+  box-shadow: 2px 2px 2px #ccc;
+  margin-bottom: 10px;
+}
+#physclub .post {
+  margin-bottom: 20px;
+}
+#physclub .post p {
+  font-size: 14px;
+  line-height: 20px;
+}
+#physclub .thumbnail {
+  padding: 3px;
+  border-radius: 2px;
+  border: 1px solid #AAA;
+  width: 210px;
+  height: 272px;
+}
+#physclub .person {
+  margin-bottom: 10px;
+}
+#physclub .person h1 {
+  margin-bottom: 0;
+}
+#physclub .container, #physclub .row.event {
+  margin-bottom: 20px;  
+}

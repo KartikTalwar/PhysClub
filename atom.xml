@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Physics Club at the University of Waterloo</title>
+  <link href="http://physclub.uwaterloo.ca/"/>
+  <link type="application/atom+xml" rel="self" href="http://physclub.uwaterloo.ca/atom.xml"/>
+  <updated>2012-01-08T23:31:23-05:00</updated>
+  <id>http://physclub.uwaterloo.ca/</id>
+  <author>
+    <name>UW Physics Club</name>
+    <email>webmaster@physclub.uwaterloo.ca</email>
+  </author>
+
+  
+    <entry>
+    <id>http://physclub.uwaterloo.ca/2012/01/08/first-general-meeting</id>
+    <link type="text/html" rel="alternate" href="http://physclub.uwaterloo.ca/2012/01/08/first-general-meeting/"/>
+    <title>First General Meeting of the term</title>
+    <updated>2012-01-08T00:00:00-05:00</updated>
+    <author>
+      <name>UW Physics Club</name>
+      <uri>http://physclub.uwaterloo.ca/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Hey all!&lt;/p&gt;
+
+&lt;p&gt;Our first general meeting is just around the corner. Come out on Thursday January 12 from 11:30 to 12:30 in PHYS 145 to talk about our &amp;#8220;potential&amp;#8221; for this term. And of course let&amp;#8217;s not forget about the FREE PIZZA to all those who attend.&lt;/p&gt;
+
+&lt;p&gt;See you there!&lt;/p&gt;</content>
+    </entry>
+  
+    <entry>
+    <id>http://physclub.uwaterloo.ca/2011/10/01/new-physclub-website</id>
+    <link type="text/html" rel="alternate" href="http://physclub.uwaterloo.ca/2011/10/01/new-physclub-website/"/>
+    <title>New PhysClub Website!</title>
+    <updated>2011-10-01T00:00:00-04:00</updated>
+    <author>
+      <name>UW Physics Club</name>
+      <uri>http://physclub.uwaterloo.ca/</uri>
+    </author>
+    <content type="html">&lt;p&gt;The UW Physics Club is back online! Located at &lt;a href='http://physclub.uwaterloo.ca/'&gt;physclub.uwaterloo.ca&lt;/a&gt; and hosted by the &lt;a href='http://csclub.uwaterloo.ca/'&gt;UW CS Club&lt;/a&gt;, the website, along with the Facebook group, is the primary means by which you can stay up to date with PhysClub events and info. Stay tuned!&lt;/p&gt;</content>
+    </entry>
+  
+ 
+</feed>
