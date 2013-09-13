@@ -20,7 +20,10 @@
 #physclub #footer ul {
   margin-left: 0;
 }
-#physclub #footer  ul li{
+#physclub ul li {
+  color: #404040;
+}
+#physclub #footer a ul li{
   list-style-type: none;
   display: inline;
   margin: 0 5px;
